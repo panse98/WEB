@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+    <title>CONTACT</title>
+    <link rel="stylesheet" type="text/css" href="panse.css">
+
+  <body>
+  <div class ="CONTACT">
+  <b><h1>CONTRACT</h1>
+<i><p>Fan?Drop a note!</p>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="form-group col-xs-4">
+          <div class="label">Chicago,US:
+            <input type="text" name="" value="" placeholder="Name">
+            <input type="text" name="" value="" placeholder="Email">
+          </div>
+          <div class="form-group col-xs-4">
+            <div class="label">Phone:+00151515</label>
+
+
+
+            </div>
+            <div class="form-group col-xs-4">
+              <div class="label">Email:mail@mail.com
+                <input type="text" name="" value="" placeholder="Message">
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+
+<a class="btn">Send</a>
+
+</style>
+</div>
+
+</div>
+
+</div>
+
+
+    </div>
+
+  </div>
+
+  </body>
+</html>
